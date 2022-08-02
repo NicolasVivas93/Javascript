@@ -37,3 +37,4 @@ container2.appendChild(para2);
 
 // Agregar container2 a container principal
 container.appendChild(container2);
+
